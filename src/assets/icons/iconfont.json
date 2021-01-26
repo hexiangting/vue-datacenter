@@ -1,0 +1,37 @@
+{
+  "id": "2118928",
+  "name": "ump",
+  "font_family": "fontFamily",
+  "css_prefix_text": "el-icon-ump",
+  "description": "gdm",
+  "glyphs": [
+    {
+      "icon_id": "504564",
+      "name": "查看",
+      "font_class": "chakan1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7761519",
+      "name": "删 除 ",
+      "font_class": "shanchu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "13479189",
+      "name": "编辑",
+      "font_class": "B",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "1517504",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    }
+  ]
+}
